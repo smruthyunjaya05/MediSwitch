@@ -1,4 +1,3 @@
-```markdown
 # MediSwitch
 
 MediSwitch is an alternative medicine recommendation system that helps users find suitable alternative medicines based on their prescribed treatments. The system leverages advanced analysis to recommend personalized, safe, and effective alternatives. It also includes a chatbot powered by Botpress that provides recommendations for Ayurvedic medicines and assists with user queries.

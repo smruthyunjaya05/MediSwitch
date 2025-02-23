@@ -30,25 +30,12 @@ To use the chatbot, simply interact with it on any page of the website. The chat
 <script src="https://files.bpcontent.cloud/2025/01/23/03/20250123034030-O2SIT1UT.js"></script>
 ```
 
-## Preview
-
-Here are some screenshots and videos showcasing the system in action:
-
-### Screenshots
-![Home Page](static/assets/demo/home.png)
-![Recommendation Page](static/assets/demo/recommend.png)
-![Chatbot](static/assets/demo/chatbot.png)
-
-### Demo Video
-[Watch Demo Video](static/assets/demo/demo.mp4)
-
-
 ## Installation
 
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/yourusername/MediSwitch.git
+   git clone https://github.com/smruthyunjaya05/MediSwitch.git
    cd MediSwitch
    ```
 

@@ -67,8 +67,6 @@ To use the chatbot, simply interact with it on any page of the website. The chat
 - Learn more about the system and its use cases on the About page.
 - Interact with the chatbot for Ayurvedic medicine recommendations and assistance.
 
-## License
+## Creator
 
-This project is licensed under the MIT License. See the LICENSE file for details.
-
----
+Mediswitch was built and coded primarily by me.

@@ -1,0 +1,7 @@
+# Core dependencies for MediSwitch
+Flask
+pandas
+scikit-learn
+
+# For Botpress chatbot integration (web embedding, no Python package needed)
+# See README for script tags to embed Botpress 

@@ -88,4 +88,4 @@ To use the chatbot, simply interact with it on any page of the website. The chat
 
 ## Creator
 
-Mediswitch was built and coded primarily by me. 
+Mediswitch was built and coded primarily by me.

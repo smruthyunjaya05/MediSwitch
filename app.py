@@ -6,7 +6,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 app = Flask(__name__)
 
 # Load the dataset
-file_path = r"C:\Users\Mruthyunjaya\Documents\MediSwitch\Medicine_Details.csv"  # Replace with the correct file path
+file_path = r"./Medicine_Details.csv"  # Use the correct relative or absolute path
 data = pd.read_csv(file_path)
 
 # Combine relevant text fields into a single description for TF-IDF
